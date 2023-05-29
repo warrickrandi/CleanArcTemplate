@@ -7,7 +7,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
     <!-- <icon>icon.png</icon> -->
-    <projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>
+    <projectUrl>https://github.com/warrickrandi/CleanArcTemplate</projectUrl>
     <description>Clean Architecture Template for Visual Studio</description>
     <releaseNotes>Clean Architecture Template for Visual Studio Intial Relase</releaseNotes>
     <copyright>$copyright$</copyright>
@@ -17,6 +17,6 @@
     </packageTypes>
   </metadata>
    <files>
-    <file src="**" exclude="**\bin\**\*;**\obj\**\*;**\*.user;**\*.lock.json;**\.DS_Store;**\.git\**\*;**\.github\**\*;**\.vs\**\*;**\*LICENSE;**\*.gitattributes;**\*README.md;**\*.gitignore;**\*nuget.config;" target="/content" />
+    <file src="**" exclude="**\bin\**\*;**\obj\**\*;**\*.user;**\*.lock.json;**\.DS_Store;**\.git\**\*;**\.github\**\*;**\.vs\**\*;**\*LICENSE;**\*.gitattributes;**\*.gitignore;**\*nuget.config;" target="/content" />
   </files>
 </package>
