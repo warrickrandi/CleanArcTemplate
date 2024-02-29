@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>CleanArcTemplate</id>
+    <version>1.0.0</version>
+    <authors>Randika Hasheen</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/warrickrandi/CleanArcTemplate</projectUrl>
+    <description>Clean Architecture Template for Visual Studio</description>
+    <releaseNotes>Clean Architecture Template for Visual Studio Intial Relase</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>dotnet dotnet-core webapi csharp template</tags>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+  </metadata>
+   <files>
+    <file src="**" exclude="**\bin\**\*;**\obj\**\*;**\*.user;**\*.lock.json;**\.DS_Store;**\.git\**\*;**\.github\**\*;**\.vs\**\*;**\*LICENSE;**\*.gitattributes;**\*.gitignore;**\*nuget.config;" target="/content" />
+  </files>
+</package>
